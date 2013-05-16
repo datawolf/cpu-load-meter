@@ -1,7 +1,7 @@
 /***************************************************************************** 
-	Linux CPU Load Meter
+    Linux CPU Load Meter
 
-    Copyright (C) 2013  Wang Long (wl3617@gmail.com)
+    Copyright (C) 2013   Datawolf 
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
